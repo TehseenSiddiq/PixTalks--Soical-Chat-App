@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "563188896466",
+    "project_id": "pixtalks-58535",
+    "storage_bucket": "pixtalks-58535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563188896466:android:23c61b9d9e43dd6495d30b",
+        "android_client_info": {
+          "package_name": "com.FluxentInc.PixTalks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRyf-i-tvyRPLtHSHirT_d2NbI5ZC0LC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

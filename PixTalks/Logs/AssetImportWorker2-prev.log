@@ -1,0 +1,352 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.16f1 (d2c21f0ef2f1) revision 13812255'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Professional' Language: 'en' Physical Memory: 16336 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/PixTalks---Social-Image-Sharing-App/PixTalks
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+50413
+Successfully changed project path to: C:/PixTalks---Social-Image-Sharing-App/PixTalks
+C:/PixTalks---Social-Image-Sharing-App/PixTalks
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [5220] Host "[IP] 192.168.0.104 [Port] 0 [Flags] 2 [Guid] 1522992587 [EditorId] 1522992587 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-J1ODH8F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [5220] Host "[IP] 192.168.0.104 [Port] 0 [Flags] 2 [Guid] 1522992587 [EditorId] 1522992587 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-J1ODH8F) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 59.96 ms, found 8 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.16f1 (d2c21f0ef2f1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/PixTalks---Social-Image-Sharing-App/PixTalks/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 (ID=0x2504)
+    Vendor:   NVIDIA
+    VRAM:     12129 MB
+    Driver:   31.0.15.4633
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56224
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.020046 seconds.
+- Loaded All Assemblies, in  0.504 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 362 ms
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.808 seconds
+Domain Reload Profiling: 1309ms
+	BeginReloadAssembly (155ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (45ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (94ms)
+	LoadAllAssembliesAndSetupDomain (191ms)
+		LoadAssemblies (151ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (188ms)
+			TypeCache.Refresh (186ms)
+				TypeCache.ScanAssembly (169ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (809ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (732ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (503ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (161ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Assembly 'Library/ScriptAssemblies/Assembly-CSharp.dll' will not be loaded due to errors:
+Unable to resolve reference 'Firebase.App'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Unable to resolve reference 'Firebase.Auth'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Assembly 'Assets/ExternalDependencyManager/Editor/1.2.177/Google.IOSResolver.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+- Loaded All Assemblies, in  1.231 seconds
+Refreshing native plugins compatible for Editor in 21.64 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.377 seconds
+Domain Reload Profiling: 4600ms
+	BeginReloadAssembly (239ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (31ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (73ms)
+	LoadAllAssembliesAndSetupDomain (842ms)
+		LoadAssemblies (656ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (328ms)
+			TypeCache.Refresh (284ms)
+				TypeCache.ScanAssembly (254ms)
+			ScanForSourceGeneratedMonoScriptInfo (33ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (3378ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (2873ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (97ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (142ms)
+			ProcessInitializeOnLoadAttributes (2424ms)
+			ProcessInitializeOnLoadMethodAttributes (170ms)
+			AfterProcessingInitializeOnLoad (31ms)
+			EditorAssembliesLoaded (3ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (23ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 3.41 seconds
+Refreshing native plugins compatible for Editor in 148.55 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4439 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 107 unused Assets / (259.1 KB). Loaded Objects now: 4888.
+Memory consumption went from 165.1 MB to 164.9 MB.
+Total: 12.883600 ms (FindLiveObjects: 2.099200 ms CreateObjectMapping: 0.503200 ms MarkObjects: 9.568200 ms  DeleteObjects: 0.710900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/ChannelSelector.cs: 787aa32b539868663942ded37c6d24ef -> 
+  custom:scripting/monoscript/fileName/ChatAppIdCheckerUI.cs: 1bb8fafd3e2c10dfddf187c423c0f4b8 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/IgnoreUiRaycastWhenInactive.cs: 64ae0ba0567ac5043ee479695fe7bd2b -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/NamePickGui.cs: 2c5392a37dc177dc65a116f98af1080e -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/FirebaseInit.cs: 73c248ca21fcbef028cfecaa31ad16e9 -> 
+  custom:scripting/monoscript/fileName/EventSystemSpawner.cs: c525f40330ddc66d7e7f5297346da241 -> f408a55e814f245f8bc8085441fbe94b
+  custom:scripting/monoscript/fileName/TextToggleIsOnTransition.cs: 326b9c727c304dd69fe51444f64a7721 -> 3e45da2cb510baa5765664ee499455b7
+  custom:scripting/precompiled-assembly-types:Firebase.Auth: eadad302a2d5988ba065896a9c67867b -> 
+  custom:scripting/monoscript/fileName/WaitExtension.cs: 5e347a66abaad736f91920d649cf00dc -> 
+  custom:scripting/monoscript/fileName/ConnectAndJoinRandomLb.cs: 9dd47be72f766f78cbbffce9f8575ef1 -> 
+  custom:CustomObjectIndexerAttribute: 43b350a4d6e6d1791af0b5038c4bea17 -> 
+  custom:scripting/monoscript/fileName/TextPopUpEffect.cs: 4c18a05c483d55fa77cfa612e8ddc9c4 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/precompiled-assembly-types:Firebase.Platform: d14ce0264be95e714b4139445adac33c -> 
+  custom:scripting/monoscript/fileName/Chat.cs: b2f08e598e752eacb934e28e6253c666 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/NetworkManager.cs: e4fa93220985ebf211f3da91d4ced24a -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/PanelPopUP.cs: 479b16700d7a270ac11bfa929321ab1d -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ChatGui.cs: 83ccb577c346edd301c0a35e11693dfd -> 
+  custom:scripting/monoscript/fileName/TextButtonTransition.cs: 72f2c4484a6dc921aacef6b387422aa7 -> 72621123551f8416d26a631e33786da7
+  custom:scripting/precompiled-assembly-types:Firebase.Analytics: 875f41459afcbf8d98fa87a6ae562893 -> 
+  custom:scripting/monoscript/fileName/AppSettingsExtensions.cs: 7eb3b190282e171c2845b1d8ee71ed5c -> 
+  custom:scripting/precompiled-assembly-types:Firebase.Database: 95b442b6352a3bb195de131f4cd2140b -> 
+  custom:scripting/monoscript/fileName/SliderValueManager.cs: e26d3146ce1ca417a43532470ebb5624 -> 
+  custom:scripting/monoscript/fileName/ImageUploader.cs: db8aa04dda6b820dda33e9a6a8c35510 -> 
+  custom:scripting/monoscript/fileName/OnStartDelete.cs: ca7ff388213f651af9d8be5d8844a8f4 -> 020107d689eae9ab4a37b46ac589b3dd
+  custom:scripting/monoscript/fileName/FadeInOut.cs: b32f07c6c8602854515a8d5a13f87cde -> 
+  custom:scripting/monoscript/fileName/UiManager.cs: c723898d2a3e0230bc5212035d2d0816 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Database.cs: b03b15aa16c38ea19551a2ff620fd22d -> 
+  custom:scripting/monoscript/fileName/Message.cs: f37f337d9f8d4a2b588c882e966b690c -> 671a789acb2c7a93d0b620fe02979957
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Firebase.TaskExtension: 4944811159cb3ca7ad7616b292bf6ce4 -> 
+  custom:scripting/monoscript/fileName/FriendItem.cs: 7041a5cee458fd755b4167724bf865d2 -> 
+  custom:scripting/precompiled-assembly-types:Google.MiniJson: 61df7a3d7ed06ef9b83818465399a53c -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 6528d6f62b4e1684ec311cc8a3843398 -> 
+  custom:scripting/precompiled-assembly-types:Firebase.App: 17cfe68a027ec73b2c39ff9998b8261c -> 
+========================================================================
+Received Import Request.
+  Time since last request: 23302.787081 seconds.
+  path: Assets/Roboto-Black SDF.asset
+  artifactKey: Guid(e66f2f67d36810a4bacc8b93190af78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Roboto-Black SDF.asset using Guid(e66f2f67d36810a4bacc8b93190af78b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e30f8e223af879e37c3f5a5d3fb46fec') in 0.593592 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Roboto-Regular SDF.asset
+  artifactKey: Guid(8063c5a42e40cda4eb53888cb6e56a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Roboto-Regular SDF.asset using Guid(8063c5a42e40cda4eb53888cb6e56a5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1119c6c105a3667680bb2e092244156e') in 0.044627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 58.176516 seconds.
+  path: Assets/Data
+  artifactKey: Guid(0c962831c21e5bc468fe3f5cbb9db1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data using Guid(0c962831c21e5bc468fe3f5cbb9db1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b694c01e38f3661d9256dc3a63975fb9') in 0.000906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.078797 seconds.
+  path: Assets/Data/firebase_unity_sdk
+  artifactKey: Guid(329f01a3a20b16444b7554c2db4cf946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk using Guid(329f01a3a20b16444b7554c2db4cf946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1650625caf457914026845cf9d16b459') in 0.000639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.538271 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseCrashlytics.unitypackage
+  artifactKey: Guid(138d922eaf55ef843bc495663226ede7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseCrashlytics.unitypackage using Guid(138d922eaf55ef843bc495663226ede7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8607d016876a50e4d47755306d778419') in 0.001722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.649755 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseDatabase.unitypackage
+  artifactKey: Guid(98aadbc052b9bdc458a5ee9feb4ed1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseDatabase.unitypackage using Guid(98aadbc052b9bdc458a5ee9feb4ed1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eb806834390669a4f8a0fc068c4eb62') in 0.001041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.180401 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseDynamicLinks.unitypackage
+  artifactKey: Guid(4510fa858d3207f4d82459cd3261f285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseDynamicLinks.unitypackage using Guid(4510fa858d3207f4d82459cd3261f285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea9d36c9a5444e24ed43332a190dcdf') in 0.001563 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.986124 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseFirestore.unitypackage
+  artifactKey: Guid(7324d8c1cc3ca754984e37dd5659cdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseFirestore.unitypackage using Guid(7324d8c1cc3ca754984e37dd5659cdfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac516d46f87fd1380651e3521c4390f1') in 0.001266 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.310978 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseAppCheck.unitypackage
+  artifactKey: Guid(74bbbe283dfc6b74abfc4cd26294018d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseAppCheck.unitypackage using Guid(74bbbe283dfc6b74abfc4cd26294018d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66a2e8593d666dd52f0fe496fa492fb3') in 0.001043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.757818 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseAnalytics.unitypackage
+  artifactKey: Guid(e4a647b32c51e5143837bf12bb6f484f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseAnalytics.unitypackage using Guid(e4a647b32c51e5143837bf12bb6f484f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '427a3ab38df82e31d788cf6fbf7b8f9c') in 0.001305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3.519989 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseFunctions.unitypackage
+  artifactKey: Guid(57077dbb676fd854e834578388050bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseFunctions.unitypackage using Guid(57077dbb676fd854e834578388050bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6722b08cf2076cc3c03b58bed862ed') in 0.001033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.717856 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseInstallations.unitypackage
+  artifactKey: Guid(3c60a2dae6223ce4b9301be0b6a92e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseInstallations.unitypackage using Guid(3c60a2dae6223ce4b9301be0b6a92e11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1ab73e9ba37e1f653ce7c10d685056e') in 0.001605 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.245778 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseMessaging.unitypackage
+  artifactKey: Guid(78df1b68336149c4685b5597c87760ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseMessaging.unitypackage using Guid(78df1b68336149c4685b5597c87760ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa8ddab78235bfc1c49154e799830e76') in 0.001028 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.475448 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseRemoteConfig.unitypackage
+  artifactKey: Guid(2af73334cc7f51147b5d7697665956b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseRemoteConfig.unitypackage using Guid(2af73334cc7f51147b5d7697665956b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd49b069fa9a11e2652bee480f34d1022') in 0.001414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 1.148134 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseStorage.unitypackage
+  artifactKey: Guid(4c5a54c00d5f91c48aae0e34e5c87fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseStorage.unitypackage using Guid(4c5a54c00d5f91c48aae0e34e5c87fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da99d8085c4f23d6947a1d59b03d5ac8') in 0.001149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 5.463956 seconds.
+  path: Assets/Data/firebase_unity_sdk/FirebaseAuth.unitypackage
+  artifactKey: Guid(192e11a2a247a0042beb13993283c9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Data/firebase_unity_sdk/FirebaseAuth.unitypackage using Guid(192e11a2a247a0042beb13993283c9fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72ae1602fed7737298d5386bae1e6211') in 0.001713 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
